@@ -1,0 +1,52 @@
+/*Write some CSS below*/
+body{
+	margin: 0px;
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: Helvetica;
+  text-align:center;
+  background-color: darkorange;
+}
+h1{
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: Courier;
+  color: black;
+  font-weight: bold;
+  font-size:15px;
+  white-space: 10px;
+}
+img{
+  background-color: white;
+  color:white ;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+a{
+  font-family: Courrier;
+  font-weight: lighter;
+  padding: 5px;
+  color:black ;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  color: blue;
+  
+}
+#mynumber{
+	color: white;
+  width:  515px;
+  height: 140px;
+  margin-left: 400px;
+  border: 2px solid black;
+  padding: 50px;
+  background:url(https://th.bing.com/th/id/OIP.LlcmhuqpkInawp49kLqT4QHaCe?w=305&h=117&c=7&r=0&o=5&pid=1.7)
+}
